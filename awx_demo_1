@@ -1,5 +1,5 @@
 ---
-- hosts: all
+- hosts: 13.127.30.39
   tasks:
    - name: Create a file
      file:
